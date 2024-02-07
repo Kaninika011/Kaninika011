@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJs, Express.js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-alpha-silk.vercel.app/](https://my-portfolio-alpha-silk.vercel.app/)
+- 👨‍💻 Visit my Portolio [https://my-portfolio-alpha-silk.vercel.app/](https://my-portfolio-alpha-silk.vercel.app/)
 
 - 💬 Ask me about **react**
 
